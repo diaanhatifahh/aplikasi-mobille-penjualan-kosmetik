@@ -1,0 +1,13 @@
+android studio:
+ganti IP  dibagian "utils"-> constant = LOCALHOST = 0.0.0.0 ('sesuakian dengan tempat connect internet')
+-----------------------------
+SERVER
+-----------------------
+buka folder server menggunakan Visual Studio Code
+lalu jalankan terminal:
+- npm install
+- npm start
+------------------------------
+akses admin :
+email : admin@gmail.com
+pass : 12345678
